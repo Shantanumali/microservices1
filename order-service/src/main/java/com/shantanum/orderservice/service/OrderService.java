@@ -52,7 +52,7 @@ public class OrderService {
             boolean allProductsInStock = Arrays.stream(inventoryResponsArray)
                     .allMatch(InventoryResponse::isInStock);
 
-            if (allProductsInStock) {
+            if (allProductsInStock && inventoryResponsArray.length>0) {
                 orderRepository.save(order);
                 return "Order Placed Successfully";
             } else {

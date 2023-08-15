@@ -20,8 +20,21 @@
 	<properties>
 		<maven.compiler.source>8</maven.compiler.source>
 		<maven.compiler.target>8</maven.compiler.target>
+		<spring-cloud.version>2021.0.8</spring-cloud.version>
 	</properties>
 
+<dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    
 	<build>
 		<plugins>
 			<plugin>
@@ -42,5 +55,6 @@
 		<module>product-service</module>
 		<module>order-service</module>
 		<module>inventory-service</module>
+		<module>discovery-server-new</module>
 	</modules>
 </project>
