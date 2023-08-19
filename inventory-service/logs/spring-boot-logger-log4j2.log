@@ -1,0 +1,16 @@
+2023-08-19 17:06:34,393 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 8936 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-08-19 17:06:34,404 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 17:06:34,406 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:06:50,018 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 16.609 seconds (JVM running for 19.059)
+2023-08-19 23:27:08,898 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16528 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-08-19 23:27:08,917 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 23:27:08,921 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:27:22,250 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 15.201 seconds (JVM running for 18.418)
+2023-08-19 23:30:02,946 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-1] Received inventory check request for skuCode: [xyz]
+2023-08-19 23:30:02,975 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-1] Checking Inventory
+2023-08-19 23:35:23,234 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 9720 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-08-19 23:35:23,249 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 23:35:23,251 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:35:33,340 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 10.937 seconds (JVM running for 14.186)
+2023-08-19 23:40:34,091 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-1] Received inventory check request for skuCode: [xyz]
+2023-08-19 23:40:34,121 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-1] Checking Inventory

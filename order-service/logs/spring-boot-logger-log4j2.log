@@ -1,0 +1,99 @@
+2023-08-19 16:25:26,426 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16336 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 16:25:26,426 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16336 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 16:25:26,449 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 16:25:26,449 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 16:25:26,455 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 16:25:26,455 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 16:25:26,596 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-08-19 16:25:26,597 INFO o.s.b.l.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-08-19 16:25:29,214 INFO o.s.d.r.c.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-08-19 16:25:29,620 INFO o.s.d.r.c.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 379 ms. Found 1 JPA repository interfaces.
+2023-08-19 16:25:30,351 INFO o.s.c.c.s.GenericScope [restartedMain] BeanFactory id=874a0070-e2e2-38a7-a7a4-cf371871c676
+2023-08-19 16:25:30,812 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-19 16:25:30,815 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactorDeferringLoadBalancerFilterConfig' of type [org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$ReactorDeferringLoadBalancerFilterConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-19 16:25:30,819 INFO o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'reactorDeferringLoadBalancerExchangeFilterFunction' of type [org.springframework.cloud.client.loadbalancer.reactive.DeferringLoadBalancerExchangeFilterFunction] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-08-19 16:25:31,931 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 0 (http)
+2023-08-19 16:25:31,934 INFO o.a.j.l.DirectJDKLog [restartedMain] An older version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2023-08-19 16:25:31,935 INFO o.a.j.l.DirectJDKLog [restartedMain] Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2023-08-19 16:25:31,935 INFO o.a.j.l.DirectJDKLog [restartedMain] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2023-08-19 16:25:31,936 INFO o.a.j.l.DirectJDKLog [restartedMain] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-08-19 16:25:31,946 INFO o.a.j.l.DirectJDKLog [restartedMain] OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2023-08-19 16:25:31,967 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-auto-1"]
+2023-08-19 16:25:31,969 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-08-19 16:25:31,970 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.58]
+2023-08-19 16:25:32,321 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-08-19 16:25:32,322 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 5720 ms
+2023-08-19 16:25:33,062 INFO o.h.j.i.u.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-08-19 16:25:33,185 INFO o.h.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.5.Final
+2023-08-19 16:25:33,593 INFO o.h.a.c.r.j.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-08-19 16:25:33,867 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-08-19 16:25:34,250 INFO c.z.h.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-08-19 16:25:34,319 INFO o.h.d.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-08-19 16:25:36,033 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-08-19 16:25:36,056 INFO o.s.o.j.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-08-19 16:25:37,041 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-08-19 16:25:40,201 WARN o.s.b.d.a.OptionalLiveReloadServer [restartedMain] Unable to start LiveReload server
+2023-08-19 16:25:40,204 INFO o.a.j.l.DirectJDKLog [RMI TCP Connection(3)-127.0.0.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-19 16:25:40,205 INFO o.s.w.s.FrameworkServlet [RMI TCP Connection(3)-127.0.0.1] Initializing Servlet 'dispatcherServlet'
+2023-08-19 16:25:40,797 INFO o.s.b.a.e.w.EndpointLinksResolver [RMI TCP Connection(3)-127.0.0.1] Exposing 16 endpoint(s) beneath base path '/actuator'
+2023-08-19 16:25:40,831 INFO o.s.w.s.FrameworkServlet [RMI TCP Connection(3)-127.0.0.1] Completed initialization in 626 ms
+2023-08-19 16:25:40,846 INFO o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses RestTemplate.
+2023-08-19 16:25:41,098 WARN o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-08-19 16:25:41,265 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-auto-1"]
+2023-08-19 16:25:41,331 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port(s): 53841 (http) with context path ''
+2023-08-19 16:25:41,335 INFO o.s.c.n.e.s.EurekaAutoServiceRegistration [restartedMain] Updating port to 53841
+2023-08-19 16:25:41,353 INFO o.s.c.n.e.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2023-08-19 16:25:41,488 INFO c.n.d.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2023-08-19 16:25:41,500 INFO c.n.d.s.r.a.ConfigClusterResolver [restartedMain] Resolving eureka endpoints via configuration
+2023-08-19 16:25:41,576 INFO c.n.d.DiscoveryClient [restartedMain] Disable delta property : false
+2023-08-19 16:25:41,576 INFO c.n.d.DiscoveryClient [restartedMain] Single vip registry refresh property : null
+2023-08-19 16:25:41,577 INFO c.n.d.DiscoveryClient [restartedMain] Force full registry fetch : false
+2023-08-19 16:25:41,577 INFO c.n.d.DiscoveryClient [restartedMain] Application is null : false
+2023-08-19 16:25:41,578 INFO c.n.d.DiscoveryClient [restartedMain] Registered Applications size is zero : true
+2023-08-19 16:25:41,578 INFO c.n.d.DiscoveryClient [restartedMain] Application version is -1: true
+2023-08-19 16:25:41,578 INFO c.n.d.DiscoveryClient [restartedMain] Getting all instance registry info from the eureka server
+2023-08-19 16:25:42,348 INFO c.n.d.DiscoveryClient [restartedMain] The response status is 200
+2023-08-19 16:25:42,365 INFO c.n.d.DiscoveryClient [restartedMain] Starting heartbeat executor: renew interval is: 30
+2023-08-19 16:25:42,379 INFO c.n.d.InstanceInfoReplicator [restartedMain] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2023-08-19 16:25:42,408 INFO c.n.d.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1692442542405 with initial instances count: 3
+2023-08-19 16:25:42,413 INFO o.s.c.n.e.s.EurekaServiceRegistry [restartedMain] Registering application ORDER-SERVICE with eureka with status UP
+2023-08-19 16:25:42,413 INFO c.n.d.DiscoveryClient$3 [restartedMain] Saw local status change event StatusChangeEvent [timestamp=1692442542413, current=UP, previous=STARTING]
+2023-08-19 16:25:42,417 INFO c.n.d.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/LAPTOP-H566G07E:order-service:0: registering service...
+2023-08-19 16:25:42,486 INFO c.n.d.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/LAPTOP-H566G07E:order-service:0 - registration status: 204
+2023-08-19 16:25:43,589 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 18.767 seconds (JVM running for 22.3)
+2023-08-19 16:25:43,589 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 18.767 seconds (JVM running for 22.3)
+2023-08-19 16:25:53,851 INFO o.s.c.n.e.s.EurekaServiceRegistry [Thread-1] Unregistering application ORDER-SERVICE with eureka with status DOWN
+2023-08-19 16:25:53,851 INFO c.n.d.DiscoveryClient$3 [Thread-1] Saw local status change event StatusChangeEvent [timestamp=1692442553851, current=DOWN, previous=UP]
+2023-08-19 16:25:53,852 INFO c.n.d.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/LAPTOP-H566G07E:order-service:0: registering service...
+2023-08-19 16:25:53,861 INFO c.n.d.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/LAPTOP-H566G07E:order-service:0 - registration status: 204
+2023-08-19 16:25:53,943 INFO o.s.o.j.AbstractEntityManagerFactoryBean [Thread-1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-08-19 16:25:53,952 INFO c.z.h.HikariDataSource [Thread-1] HikariPool-1 - Shutdown initiated...
+2023-08-19 16:25:53,962 INFO c.z.h.HikariDataSource [Thread-1] HikariPool-1 - Shutdown completed.
+2023-08-19 16:25:53,976 INFO c.n.d.DiscoveryClient [Thread-1] Shutting down DiscoveryClient ...
+2023-08-19 16:25:57,010 INFO c.n.d.DiscoveryClient [Thread-1] Unregistering ...
+2023-08-19 16:25:57,020 INFO c.n.d.DiscoveryClient [Thread-1] DiscoveryClient_ORDER-SERVICE/LAPTOP-H566G07E:order-service:0 - deregister  status: 200
+2023-08-19 16:25:57,180 INFO c.n.d.DiscoveryClient [Thread-1] Completed shut down of DiscoveryClient
+2023-08-19 16:25:58,106 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16336 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 16:25:58,107 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 16:25:58,108 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 16:26:04,009 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 6.692 seconds (JVM running for 42.721)
+2023-08-19 16:30:01,787 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 10252 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 16:30:01,804 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 16:30:01,808 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 16:30:17,293 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 16.526 seconds (JVM running for 19.822)
+2023-08-19 17:06:30,666 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 26012 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 17:06:30,679 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 17:06:30,681 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:06:46,423 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 16.591 seconds (JVM running for 18.513)
+2023-08-19 23:27:15,998 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 5716 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 23:27:16,025 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 23:27:16,029 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:27:30,245 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 16.091 seconds (JVM running for 19.959)
+2023-08-19 23:28:14,069 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 17268 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 23:28:14,102 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 23:28:14,107 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:28:32,899 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 20.944 seconds (JVM running for 26.185)
+2023-08-19 23:35:17,608 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16736 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-19 23:35:17,633 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-19 23:35:17,637 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:35:30,086 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 14.367 seconds (JVM running for 16.842)

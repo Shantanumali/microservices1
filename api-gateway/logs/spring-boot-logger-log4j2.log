@@ -1,0 +1,53 @@
+2023-08-19 17:05:41,875 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 21832 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 17:05:41,897 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:05:50,236 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 10.336 seconds (JVM running for 13.868)
+2023-08-19 17:05:57,569 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 21832 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 17:05:57,573 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:06:01,420 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 4.689 seconds (JVM running for 25.052)
+2023-08-19 17:06:22,725 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23108 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 17:06:22,744 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:06:29,350 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 8.431 seconds (JVM running for 11.356)
+2023-08-19 17:07:25,826 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23108 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 17:07:25,829 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 17:07:29,129 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 4.022 seconds (JVM running for 71.133)
+2023-08-19 23:26:45,918 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:26:45,944 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:26:54,979 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 10.725 seconds (JVM running for 14.002)
+2023-08-19 23:31:23,662 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:31:23,663 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:31:26,119 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 3.472 seconds (JVM running for 285.142)
+2023-08-19 23:31:34,110 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:31:34,112 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:31:37,343 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 4.048 seconds (JVM running for 296.365)
+2023-08-19 23:31:41,355 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:31:41,357 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:31:44,286 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 3.637 seconds (JVM running for 303.309)
+2023-08-19 23:33:19,812 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:33:19,814 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:33:22,827 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 3.681 seconds (JVM running for 401.85)
+2023-08-19 23:33:35,075 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 11916 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:33:35,077 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:33:38,139 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 3.759 seconds (JVM running for 417.162)
+2023-08-19 23:35:12,043 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 6152 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:35:12,066 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:36:20,408 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 1604 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:36:20,420 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:37:36,874 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 24408 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:37:36,880 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:40:01,854 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:40:01,859 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:40:12,037 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 11.743 seconds (JVM running for 14.766)
+2023-08-19 23:42:21,942 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:42:21,944 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:42:34,934 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:42:34,935 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:42:48,870 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:42:48,878 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:42:53,582 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 5.645 seconds (JVM running for 176.325)
+2023-08-19 23:43:24,689 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:43:24,691 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:43:33,353 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:43:33,354 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:44:04,233 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ApiGatewayApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23376 (D:\microservices\microservices-parent\api-gateway\target\classes started by shant in D:\microservices\microservices-parent\api-gateway)
+2023-08-19 23:44:04,234 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-19 23:44:08,543 INFO o.s.b.StartupInfoLogger [restartedMain] Started ApiGatewayApplication in 4.986 seconds (JVM running for 251.297)
