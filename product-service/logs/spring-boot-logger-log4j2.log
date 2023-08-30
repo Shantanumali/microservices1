@@ -18,3 +18,27 @@
 2023-08-19 23:35:26,984 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
 2023-08-19 23:35:26,986 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
 2023-08-19 23:35:34,018 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 7.85 seconds (JVM running for 9.553)
+2023-08-26 15:38:56,063 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 12916 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-26 15:38:56,103 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-26 15:38:56,105 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 15:39:08,387 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 15.1 seconds (JVM running for 20.787)
+2023-08-26 19:06:48,205 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 17588 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-26 19:06:48,219 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-26 19:06:48,222 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 19:06:56,188 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 9.182 seconds (JVM running for 11.505)
+2023-08-30 17:00:44,022 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23756 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-30 17:00:44,044 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:00:44,047 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:00:53,141 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 10.93 seconds (JVM running for 13.9)
+2023-08-30 17:07:32,815 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23756 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-30 17:07:32,816 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:07:32,817 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:07:34,861 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 2.438 seconds (JVM running for 415.62)
+2023-08-30 17:14:27,992 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 22272 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-30 17:14:28,005 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:14:28,008 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:14:34,745 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 8.007 seconds (JVM running for 10.263)
+2023-08-30 17:15:17,099 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ProductServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 21608 (D:\microservices\microservices-parent\product-service\target\classes started by shant in D:\microservices\microservices-parent\product-service)
+2023-08-30 17:15:17,119 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:15:17,122 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:15:26,893 INFO o.s.b.StartupInfoLogger [restartedMain] Started ProductServiceApplication in 11.261 seconds (JVM running for 14.786)

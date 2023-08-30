@@ -15,6 +15,7 @@ import com.shantanum.inventoryservice.dto.InventoryResponse;
 import com.shantanum.inventoryservice.service.InventoryService;
 
 import lombok.RequiredArgsConstructor;
+import lombok.SneakyThrows;
 
 @RestController
 @RequestMapping("/api/inventory")
@@ -30,8 +31,10 @@ public class InventoryController {
     // http://localhost:8082/api/inventory?skuCode=iphone-13&skuCode=iphone13-red
     @GetMapping
     @ResponseStatus(HttpStatus.OK)
+    @SneakyThrows
     public List<InventoryResponse> isInStock(@RequestParam List<String> skuCode) {
         log.info("Received inventory check request for skuCode: {}", skuCode);
+        //Thread.sleep(10000);
         return inventoryService.isInStock(skuCode);
     }
 }

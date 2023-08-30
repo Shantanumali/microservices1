@@ -97,3 +97,74 @@
 2023-08-19 23:35:17,633 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
 2023-08-19 23:35:17,637 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
 2023-08-19 23:35:30,086 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 14.367 seconds (JVM running for 16.842)
+2023-08-26 15:38:53,068 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 4228 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-26 15:38:53,105 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-26 15:38:53,110 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 15:39:13,408 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 24.115 seconds (JVM running for 31.68)
+2023-08-26 19:06:46,157 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 24932 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-26 19:06:46,173 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-26 19:06:46,181 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-26 19:07:00,252 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 15.423 seconds (JVM running for 18.137)
+2023-08-30 17:00:40,547 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16864 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:00:40,568 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:00:40,570 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:00:58,754 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 20.057 seconds (JVM running for 23.629)
+2023-08-30 17:07:22,075 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 16864 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:07:22,077 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:07:22,077 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:07:29,066 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 7.403 seconds (JVM running for 413.941)
+2023-08-30 17:14:23,018 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 14868 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:14:23,033 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:14:23,036 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:14:38,464 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 16.737 seconds (JVM running for 19.252)
+2023-08-30 17:15:16,432 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23100 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:15:16,456 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:15:16,459 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:15:38,140 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 23.135 seconds (JVM running for 27.259)
+2023-08-30 17:22:18,810 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:23,113 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:25,089 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-9] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:26,730 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-9] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:28,082 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:29,514 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-9] Cannot Place Order Executing Fallback logic
+2023-08-30 17:22:30,942 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:03,047 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:09,688 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:11,653 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:12,580 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:13,423 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-9] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:14,515 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-9] Cannot Place Order Executing Fallback logic
+2023-08-30 17:23:15,442 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:24:31,515 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23100 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:24:31,516 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:24:31,516 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:24:37,714 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 6.673 seconds (JVM running for 566.833)
+2023-08-30 17:25:10,872 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:12,724 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:13,650 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:14,782 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:15,688 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:24,283 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-11] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:25,223 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:25:58,963 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23100 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-08-30 17:25:58,964 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-08-30 17:25:58,965 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-30 17:26:07,105 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 8.85 seconds (JVM running for 656.225)
+2023-08-30 17:27:01,902 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:03,102 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:03,850 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-13] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:04,544 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:07,823 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:08,603 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:09,336 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:25,117 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-13] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:25,904 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:26,520 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-13] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:27,225 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:27:27,878 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:32:51,607 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:32:55,213 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:32:56,709 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:32:57,985 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-08-30 17:33:09,391 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-1] Cannot Place Order Executing Fallback logic
+2023-08-30 17:33:41,113 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
