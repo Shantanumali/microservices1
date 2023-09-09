@@ -168,3 +168,83 @@
 2023-08-30 17:32:57,985 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
 2023-08-30 17:33:09,391 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-1] Cannot Place Order Executing Fallback logic
 2023-08-30 17:33:41,113 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-09-09 12:06:13,839 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 24000 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:06:13,850 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:06:13,852 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:06:29,405 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 16.328 seconds (JVM running for 18.209)
+2023-09-09 12:10:53,239 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 8680 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:10:53,249 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:10:53,252 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:11:16,628 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 23536 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:11:16,636 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:11:16,638 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:11:30,728 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 14040 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:11:30,736 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:11:30,738 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:11:38,643 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 27088 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:11:38,654 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:11:38,656 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:11:52,280 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 14.445 seconds (JVM running for 16.016)
+2023-09-09 12:14:15,157 INFO c.s.o.c.OrderController [ForkJoinPool.commonPool-worker-3] Cannot Place Order Executing Fallback logic
+2023-09-09 12:16:38,228 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 27088 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:16:38,229 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:16:38,229 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:16:45,588 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 7.834 seconds (JVM running for 309.359)
+2023-09-09 12:21:11,458 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:21:11,466 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:21:11,468 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:21:24,717 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 13.978 seconds (JVM running for 15.399)
+2023-09-09 12:24:32,233 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:24:32,234 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:24:32,234 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:24:55,796 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:24:55,797 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:24:55,797 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:25:21,853 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:25:21,854 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:25:21,854 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:25:29,579 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:25:29,580 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:25:29,580 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:25:57,944 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:25:57,945 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:25:57,945 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:26:25,869 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:26:25,870 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:26:25,870 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:26:34,382 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:26:34,382 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:26:34,382 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:26:47,168 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:26:47,169 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:26:47,169 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:26:53,998 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 7.185 seconds (JVM running for 344.709)
+2023-09-09 12:27:10,439 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:27:10,439 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:27:10,440 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:27:18,048 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 8.011 seconds (JVM running for 368.76)
+2023-09-09 12:28:08,708 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:28:08,709 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:28:08,709 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:28:15,645 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 7.369 seconds (JVM running for 426.362)
+2023-09-09 12:28:29,323 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:28:29,324 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:28:29,324 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:28:36,363 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 7.556 seconds (JVM running for 447.083)
+2023-09-09 12:29:06,820 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:29:06,821 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:29:06,821 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:29:14,797 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 8.418 seconds (JVM running for 485.519)
+2023-09-09 12:29:21,777 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:29:21,778 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:29:21,778 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:29:29,957 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 8.629 seconds (JVM running for 500.681)
+2023-09-09 12:29:42,163 INFO o.s.b.StartupInfoLogger [restartedMain] Starting OrderServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 2360 (D:\microservices\microservices-parent\order-service\target\classes started by shant in D:\microservices\microservices-parent\order-service)
+2023-09-09 12:29:42,163 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:29:42,164 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:29:49,915 INFO o.s.b.StartupInfoLogger [restartedMain] Started OrderServiceApplication in 8.201 seconds (JVM running for 520.641)
+2023-09-09 12:29:57,625 INFO c.s.o.s.OrderService [http-nio-8081-exec-1] Calling inventory service
+2023-09-09 12:34:00,433 INFO c.s.o.s.OrderService [http-nio-8081-exec-3] Calling inventory service
+2023-09-09 12:34:51,149 INFO c.s.o.s.OrderService [http-nio-8081-exec-4] Calling inventory service
+2023-09-09 12:36:21,275 INFO c.s.o.s.OrderService [http-nio-8081-exec-6] Calling inventory service
+2023-09-09 12:37:56,041 INFO c.s.o.s.OrderService [http-nio-8081-exec-9] Calling inventory service

@@ -184,3 +184,43 @@
 2023-08-30 17:33:41,105 INFO c.s.i.s.InventoryService [http-nio-auto-4-exec-6] Checking Inventory
 2023-08-30 17:33:48,454 INFO c.s.i.c.InventoryController [http-nio-auto-4-exec-7] Received inventory check request for skuCode: [iphone_13]
 2023-08-30 17:33:48,455 INFO c.s.i.s.InventoryService [http-nio-auto-4-exec-7] Checking Inventory
+2023-09-09 12:06:06,772 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 26852 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-09-09 12:06:06,784 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:06:06,786 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:06:19,746 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 13.952 seconds (JVM running for 15.931)
+2023-09-09 12:12:41,150 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-1] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:12:41,161 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-1] Checking Inventory
+2023-09-09 12:13:58,489 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 26852 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-09-09 12:13:58,490 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:13:58,490 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:14:02,589 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 4.465 seconds (JVM running for 478.828)
+2023-09-09 12:16:08,155 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 26852 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-09-09 12:16:08,155 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:16:08,156 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:16:12,139 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 4.413 seconds (JVM running for 608.395)
+2023-09-09 12:16:53,711 INFO c.s.i.c.InventoryController [http-nio-auto-3-exec-1] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:16:53,716 INFO c.s.i.s.InventoryService [http-nio-auto-3-exec-1] Checking Inventory
+2023-09-09 12:17:25,568 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 26852 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-09-09 12:17:25,569 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:17:25,570 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:17:29,556 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 4.437 seconds (JVM running for 685.82)
+2023-09-09 12:19:22,877 INFO c.s.i.c.InventoryController [http-nio-auto-4-exec-1] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:19:22,885 INFO c.s.i.s.InventoryService [http-nio-auto-4-exec-1] Checking Inventory
+2023-09-09 12:20:33,197 INFO o.s.b.StartupInfoLogger [restartedMain] Starting InventoryServiceApplication using Java 16.0.2 on LAPTOP-H566G07E with PID 12636 (D:\microservices\microservices-parent\inventory-service\target\classes started by shant in D:\microservices\microservices-parent\inventory-service)
+2023-09-09 12:20:33,206 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.4, Spring v5.3.16
+2023-09-09 12:20:33,208 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-09-09 12:20:43,788 INFO o.s.b.StartupInfoLogger [restartedMain] Started InventoryServiceApplication in 11.423 seconds (JVM running for 13.435)
+2023-09-09 12:22:12,729 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-1] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:22:17,730 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-1] Checking Inventory
+2023-09-09 12:22:48,729 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-2] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:22:48,730 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-2] Checking Inventory
+2023-09-09 12:29:57,683 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-4] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:29:57,684 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-4] Checking Inventory
+2023-09-09 12:34:00,449 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-6] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:34:00,450 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-6] Checking Inventory
+2023-09-09 12:34:51,154 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-7] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:34:51,155 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-7] Checking Inventory
+2023-09-09 12:36:21,291 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-9] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:36:21,293 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-9] Checking Inventory
+2023-09-09 12:37:56,055 INFO c.s.i.c.InventoryController [http-nio-auto-1-exec-1] Received inventory check request for skuCode: [iphone_13]
+2023-09-09 12:37:56,056 INFO c.s.i.s.InventoryService [http-nio-auto-1-exec-1] Checking Inventory
